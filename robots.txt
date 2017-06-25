@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /fonts/
+
+Sitemap: https://jakubbarczyk.github.io/sitemap.xml
